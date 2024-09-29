@@ -2,7 +2,7 @@
 #
 # Table name: courses
 #
-#  id            :integer          not null, primary key
+#  id            :bigint           not null, primary key
 #  term_offered  :string
 #  title         :string
 #  created_at    :datetime         not null
